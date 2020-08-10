@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Supra Lights App</string>
+    <string name="title_name">Supra BT Lights</string>
+    <string name="tab_text_1">Connect</string>
+    <string name="tab_text_2">Remote</string>
+    <string name="tab_text_3">Logs</string>
+    <string name="txt_connect_paired">Paired Devices</string>
+    <string name="txt_connect_unpaired">UnPaired Devices</string>
+    <string name="txt_logs_fragment">Time Logs fragment</string>
+    <!--Remote Fragment Text -->
+    <string name="txt_power_switch">Power</string>
+</resources>
